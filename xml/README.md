@@ -1,6 +1,6 @@
 Need from OpenCV and dlib
 
-        "/home/sylar/gender_classification/xml/lbpcascade_frontalface.xml",
+	"/home/sylar/gender_classification/xml/lbpcascade_frontalface.xml",
       
 	"/home/sylar/gender_classification/xml/haarcascade_mcs_nose.xml",
 		  
